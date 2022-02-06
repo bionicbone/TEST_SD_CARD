@@ -1,7 +1,7 @@
 # TEST_SD_CARD
 LOLIN32 ESP32 with Adafruit 5v SD Card
 
-This appears to be working, but more thesting required.
+This appears to be working, but more testing required.
 The Adafruit 5v SD Card Breakout must be powered by 5v (I used a NANO powered by USB just to get thh 5v & GND pins in this test)
 For the LOLIN32 connections
   GPIO19 to D0
